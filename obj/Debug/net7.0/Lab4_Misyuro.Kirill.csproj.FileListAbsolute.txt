@@ -1,0 +1,15 @@
+H:\Projects\Lab4_Misyuro.Kirill\bin\Debug\net7.0\Lab4_Misyuro.Kirill.exe
+H:\Projects\Lab4_Misyuro.Kirill\bin\Debug\net7.0\Lab4_Misyuro.Kirill.deps.json
+H:\Projects\Lab4_Misyuro.Kirill\bin\Debug\net7.0\Lab4_Misyuro.Kirill.runtimeconfig.json
+H:\Projects\Lab4_Misyuro.Kirill\bin\Debug\net7.0\Lab4_Misyuro.Kirill.dll
+H:\Projects\Lab4_Misyuro.Kirill\bin\Debug\net7.0\Lab4_Misyuro.Kirill.pdb
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\Lab4_Misyuro.Kirill.csproj.AssemblyReference.cache
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\Lab4_Misyuro.Kirill.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\Lab4_Misyuro.Kirill.AssemblyInfoInputs.cache
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\Lab4_Misyuro.Kirill.AssemblyInfo.cs
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\Lab4_Misyuro.Kirill.csproj.CoreCompileInputs.cache
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\Lab4_Misyuro.Kirill.dll
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\refint\Lab4_Misyuro.Kirill.dll
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\Lab4_Misyuro.Kirill.pdb
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\Lab4_Misyuro.Kirill.genruntimeconfig.cache
+H:\Projects\Lab4_Misyuro.Kirill\obj\Debug\net7.0\ref\Lab4_Misyuro.Kirill.dll
